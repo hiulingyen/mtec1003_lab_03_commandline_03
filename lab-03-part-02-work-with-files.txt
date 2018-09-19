@@ -177,7 +177,7 @@ spacbar is to turn pages q is quite to the terminal
 
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
-
+I would use {less}and{more} to read it as a book， use {cat} to shows everything help to edit the file, use {tail} or {head} to view part of the file.
 
 
 ==========
@@ -198,3 +198,4 @@ wc -l pg1232.txt
 
 Write the command that you used below.
 ----------
+cp *.txt User/student/
